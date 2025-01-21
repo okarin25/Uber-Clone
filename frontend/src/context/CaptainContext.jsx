@@ -26,6 +26,6 @@ const CaptainContext = ({ children }) => {
             {children}
         </CaptainDataContext.Provider>
     );
-};z
+};
 
 export default CaptainContext;
